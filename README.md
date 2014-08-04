@@ -10,6 +10,8 @@ This release candidate is best suited for developers, advanced users, or anyone 
 
 The repo is set to initially include OpenCart 1.5.5.x and 1.5.4.x with possible expansion to earlier 1.5.x versions at a later date.  To reduce file size and help code alignment in GitHub, inconsistencies in whitespace (a space mixed in with the tabs and vice versa) will be fixed on the initial push.  Please make sure you're using this whitespace standardized version when submitting a pull request and not an OpenCart default version.
 
+Contact me at http://www.phpfreelanceprogrammer.com and I can take up opencart customization
+
 ## Contribution Guidelines
 
  1. The OpenCart Community Edition GitHub repository is for submitting bug reports and bug fixes.  If you need assistance troubleshooting an issue with OpenCart please use the official community support forums at [forum.opencart.com](http://forum.opencart.com).
